@@ -41,9 +41,3 @@ Bar_Ordering_System
 
 ```
 
-## Collaborators/Group members
-- Yin-Ju Wu
-- Yuxuan Niu
-- Rahul Reddy Tikkavarapu
-- Bernardo José Willis Lozano
-- Lan Xiao
